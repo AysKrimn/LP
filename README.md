@@ -71,4 +71,4 @@ composer create-project laravel/laravel .  (Creates the laravel project)
 
 php artisan serve (Starts the server)
 
-php artisan make:controller <ControllerAdi> (custom controller yaratmak için)
+php artisan make:controller <ControllerAdi> (custom controller )
